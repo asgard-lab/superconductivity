@@ -1,0 +1,3 @@
+[submodule "tracing/trace-cmd"]
+	path = tracing/trace-cmd
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/trace-cmd.git
